@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      // ... existing options ...
+      "jsx": "react" // or "react-jsx" for React 17+                        
+    },
+    "$schema": "./tsconfig.schema.json"
+}
